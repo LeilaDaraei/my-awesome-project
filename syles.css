@@ -1,0 +1,83 @@
+body {
+  margin: 0.5%;
+  padding: 0.5%;
+}
+h1 {
+  padding-bottom: 10px;
+  color: #2a2a2b;
+  text-align: left;
+  margin: 0 auto 0 10px;
+}
+.normal {
+  font-weight: normal;
+  text-transform: capitalize;
+}
+.date {
+  padding: 0;
+  color: #1d1e1f;
+  text-align: left;
+  margin: 0 auto 0 30px;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+  margin: -100px -20px;
+}
+h2 {
+  font-size: 35px;
+  position: relative;
+  left: 300px;
+  top: -120px;
+  color: #2a2a2b;
+  margin-bottom: 0.5rem;
+}
+.cel-far {
+  font-size: 16px;
+  text-decoration: none;
+  position: relative;
+  top: -14px;
+  left: -2px;
+}
+.celcius,
+.farenheit {
+  text-decoration: none;
+}
+.celcius:hover,
+.farenheit:hover {
+  text-decoration: underline;
+}
+
+.today-img-degree {
+  margin: 0 20% auto -30px;
+}
+.measurements {
+  margin-top: -22%;
+  margin-right: 0;
+  margin-left: 60%;
+}
+strong {
+  font-size: 17.5px;
+}
+
+h5 {
+  margin-bottom: 10%;
+  color: #2a2a2b;
+}
+#img {
+  width: 80%;
+  height: 50%;
+}
+
+p {
+  font-size: 0.9rem;
+  text-align: left;
+  margin-top: 20%;
+  margin-bottom: 0;
+}
+.degrees {
+  display: block;
+  text-align: right;
+  margin-top: -40px;
+  font-size: 1.2rem;
+}
