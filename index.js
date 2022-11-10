@@ -107,5 +107,3 @@ function showTemperature(response) {
   humidityNow.innerHTML = humidity + "%";
   temperatureNow.innerHTML = temp;
 }
-//
-//navigator
